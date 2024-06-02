@@ -62,17 +62,16 @@ Start the server:
 npm start
 Open your browser and navigate to http://localhost:3000.
 
-Routes
-Home Page: http://localhost:3000
-Pet Management: http://localhost:3000/pets
-Dog Walker Management: http://localhost:3000/dogwalkers
-Client Management: http://localhost:3000/clients
-Appointments: http://localhost:3000/appointments
-Add Appointment: http://localhost:3000/appointments/add
-Update Appointment: http://localhost:3000/appointments/update/:id
-Contributing
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
+##### Routes
+- Home Page: http://localhost:3000
+- Pet Management: http://localhost:3000/pets
+- Dog Walker Management: http://localhost:3000/dogwalkers
+- Client Management: http://localhost:3000/clients
+- Appointments: http://localhost:3000/appointments
+- Add Appointment: http://localhost:3000/appointments/add
+- Update Appointment: http://localhost:3000/appointments/update/:id
 
+  
 **Fork the Project
 - Create your Feature Branch (git checkout -b feature/AmazingFeature)
 - Commit your Changes (git commit -m 'Add some AmazingFeature')
