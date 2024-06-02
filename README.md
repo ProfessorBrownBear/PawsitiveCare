@@ -83,8 +83,8 @@ Open your browser and navigate to http://localhost:3000.
 Distributed under the MIT License. See LICENSE for more information.
 
 # Acknowledgments
-Hat tip to anyone whose code was used
-Inspiration: Our lovable pets who inspired this project
-The amazing community that supports open source projects
+- Hat tip to anyone whose code was used
+- Inspiration: Our lovable pets who inspired this project
+- The amazing community that supports open source projects
 
 ## PawsitiveCare: Where every pet is treated with pawsitive care! Let's make the world a better place for our furry friends, one walk at a time. 🐶❤️
