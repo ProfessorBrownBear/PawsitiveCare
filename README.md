@@ -80,12 +80,12 @@ Contributions are what make the open-source community such an amazing place to l
 - Open a Pull Request
 
   
-***License
+### License
 Distributed under the MIT License. See LICENSE for more information.
 
-Acknowledgments
+# Acknowledgments
 Hat tip to anyone whose code was used
 Inspiration: Our lovable pets who inspired this project
 The amazing community that supports open source projects
 
-**PawsitiveCare: Where every pet is treated with pawsitive care! Let's make the world a better place for our furry friends, one walk at a time. 🐶❤️
+## PawsitiveCare: Where every pet is treated with pawsitive care! Let's make the world a better place for our furry friends, one walk at a time. 🐶❤️
