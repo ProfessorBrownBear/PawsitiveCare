@@ -1,6 +1,9 @@
 PawsitiveCare 🐾
 Welcome to PawsitiveCare, your premier pet walking service application! Our mission is to bring joy and care to every pet while providing a seamless experience for pet owners and dog walkers. This repository contains the full-stack web application that powers PawsitiveCare, designed with Node.js, Express, MongoDB, and EJS templating.
 
+##Backgrounder on how to front end a Mongo Database with an Express Web Server:
+https://www.perplexity.ai/page/Connecting-Nodejs-to-vEHEEa7yTAOgCqRIxseLrw
+
 Table of Contents
 Features
 Getting Started
@@ -25,9 +28,6 @@ Node.js (v12 or higher)
 MongoDB
 Installation
 Clone the repository:
-
-bash
-Copy code
 git clone https://github.com/ProfessorBrownBear/PawsitiveCare.git
 cd PawsitiveCare/pet-walking-service-app
 Install NPM packages:
